@@ -1,15 +1,15 @@
 [
   {
     "enable": true,
-    "alias": "张三",
-    "phone": "18888888888",
-    "password": "123456...",
+    "alias": "王",
+    "phone": "17596519120",
+    "password": "wgt200119",
     "randomLocation": false,
     "deviceType": "Xiaomi|Mi 13|13",
-    "deviceId": "设备ID",
-    "address": "打卡地址",
-    "longitude": "位置经度",
-    "latitude": "位置纬度",
-    "pushKey": "推送Key"
+    "deviceId": "1c08f628b06a44fca6d36a50820bce96f722",
+    "address": "安徽省合肥市包河区创业路",
+    "longitude": "117.34641",
+    "latitude": "31.79773 ",
+    "pushKey": "6c248e1bd9a14887a9a4aed7a603e0d5"
   }
 ]
